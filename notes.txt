@@ -1,1 +1,1 @@
-My notes content here
+I added this file via Bash and also cloned my repo locally
